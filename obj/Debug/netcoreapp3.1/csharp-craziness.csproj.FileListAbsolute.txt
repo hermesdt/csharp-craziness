@@ -1,0 +1,11 @@
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness.deps.json
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness.runtimeconfig.json
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness.runtimeconfig.dev.json
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness.dll
+/Users/alvaro/source/csharp-craziness/bin/Debug/netcoreapp3.1/csharp-craziness.pdb
+/Users/alvaro/source/csharp-craziness/obj/Debug/netcoreapp3.1/csharp-craziness.csprojAssemblyReference.cache
+/Users/alvaro/source/csharp-craziness/obj/Debug/netcoreapp3.1/csharp-craziness.AssemblyInfoInputs.cache
+/Users/alvaro/source/csharp-craziness/obj/Debug/netcoreapp3.1/csharp-craziness.AssemblyInfo.cs
+/Users/alvaro/source/csharp-craziness/obj/Debug/netcoreapp3.1/csharp-craziness.dll
+/Users/alvaro/source/csharp-craziness/obj/Debug/netcoreapp3.1/csharp-craziness.pdb
